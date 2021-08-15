@@ -26,7 +26,7 @@ SECRET_KEY = '934nw3r62@!m0^ksgw3#31tntglnr%td+-_b89xpu2@q2zqv=d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
+ALLOWED_HOSTS = ['fixedcarzone.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
@@ -162,8 +162,8 @@ SITE_ID = 1
 # Email sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'rathan.kumar049@gmail.com'
-EMAIL_HOST_PASSWORD = 'qWerty@124'
+EMAIL_HOST_USER = 'someone@gmail.com'
+EMAIL_HOST_PASSWORD = '44424'
 EMAIL_USE_TLS = True
 
 
